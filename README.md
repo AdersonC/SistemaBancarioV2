@@ -98,7 +98,7 @@ Nesta nova versão foram adicionadas melhorias como:
 * melhoria na interface do menu
 
 Versão anterior do projeto:
-[https://github.com/SEU-USUARIO/SistemaBancario](https://github.com/AdersonC/sistema-conta-bancaria-java)
+https://github.com/AdersonC/sistema-conta-bancaria-java
 
 ---
 

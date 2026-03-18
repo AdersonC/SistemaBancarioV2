@@ -74,7 +74,7 @@ src/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/AdersonC/SistemaBancarioV2.git
+git clone https://github.com/AdersonC/banking-system-v2.git
 ```
 
 2. Open the project in a Java IDE

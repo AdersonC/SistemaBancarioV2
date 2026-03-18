@@ -122,3 +122,10 @@ The goal of this project is to **practice core Java and Object-Oriented Programm
 * Development of a REST API for banking operations
 
 ---
+
+## 👤 Author
+
+Aderson
+Software Engineering Student
+
+---
